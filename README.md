@@ -120,9 +120,9 @@ All summary tables and charts in the workbook are calculated by formula from the
 
 ## Citation
 
-Please cite the published article when using these materials. Until the article is published, cite the archived release on Zenodo:
+Please cite the published article when using these materials. Until the article is published, cite the archived materials on Zenodo. The DOI below resolves to the latest version; each release also has its own version-specific DOI on the Zenodo record.
 
-> Collares, A.C.; Simpson, D.; McGaughey, T.; Peters, P. *Health-related determinants of internal migration among older adults in Canada: a scoping review. Supplementary data and materials* (Version 1.0.0) [Data set]. Zenodo, 2026. https://doi.org/10.5281/zenodo.24406509
+> Collares, A.C.; Simpson, D.; McGaughey, T.; Peters, P. *Health-related determinants of internal migration among older adults in Canada: a scoping review. Supplementary data and materials* [Data set]. Zenodo, 2026. https://doi.org/10.5281/zenodo.24406509
 
 ## Licence
 
