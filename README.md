@@ -1,6 +1,6 @@
 # Health-related determinants of internal migration among older adults in Canada: a scoping review
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24406510.svg)](https://doi.org/10.5281/zenodo.24406510)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24406509.svg)](https://doi.org/10.5281/zenodo.24406509)
 
 Supplementary data and materials for the scoping review submitted to *Populations* (MDPI).
 
@@ -11,7 +11,7 @@ Supplementary data and materials for the scoping review submitted to *Population
 
 **Correspondence:** Paul Peters, [paul.peters@carleton.ca](mailto:paul.peters@carleton.ca)
 
-**Archived release:** Zenodo, [https://doi.org/10.5281/zenodo.24406510](https://doi.org/10.5281/zenodo.24406510)
+**Archived release (all versions):** Zenodo, [https://doi.org/10.5281/zenodo.24406509](https://doi.org/10.5281/zenodo.24406509)
 
 **Protocol:** Open Science Framework, [https://doi.org/10.17605/OSF.IO/4TNEH](https://doi.org/10.17605/OSF.IO/4TNEH)
 
@@ -122,7 +122,7 @@ All summary tables and charts in the workbook are calculated by formula from the
 
 Please cite the published article when using these materials. Until the article is published, cite the archived release on Zenodo:
 
-> Collares, A.C.; Simpson, D.; McGaughey, T.; Peters, P. *Health-related determinants of internal migration among older adults in Canada: a scoping review. Supplementary data and materials* (Version 1.0.0) [Data set]. Zenodo, 2026. https://doi.org/10.5281/zenodo.24406510
+> Collares, A.C.; Simpson, D.; McGaughey, T.; Peters, P. *Health-related determinants of internal migration among older adults in Canada: a scoping review. Supplementary data and materials* (Version 1.0.0) [Data set]. Zenodo, 2026. https://doi.org/10.5281/zenodo.24406509
 
 ## Licence
 
