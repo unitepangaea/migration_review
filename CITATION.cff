@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them using the metadata below, and cite the published article once available."
+type: dataset
+title: "Health-related determinants of internal migration among older adults in Canada: a scoping review. Supplementary data and materials"
+version: 1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/unitepangaea/migration_review"
+authors:
+  - given-names: Ana Cristina
+    family-names: Collares
+    affiliation: "Department of Health Sciences, Carleton University"
+  - given-names: Dana
+    family-names: Simpson
+    affiliation: "Department of Health Sciences, Carleton University"
+  - given-names: Tomoko
+    family-names: McGaughey
+    affiliation: "Department of Health Sciences, Carleton University"
+  - given-names: Paul
+    family-names: Peters
+    affiliation: "Department of Health Sciences and Department of Geography and Environmental Studies, Carleton University"
+    email: paul.peters@carleton.ca
+keywords:
+  - older adults
+  - internal migration
+  - residential relocation
+  - healthcare access
+  - Canada
+  - scoping review
+abstract: >-
+  Supplementary materials for a scoping review of health-related determinants of
+  internal migration among older adults in Canada: the data extraction workbook
+  for the 17 included sources of evidence (Table S1), the completed PRISMA-ScR
+  checklist (Table S2), and the prompts given to Claude (Anthropic) during data
+  extraction and manuscript preparation.
+references:
+  - type: generic
+    title: "Health-Related Determinants of Internal Migration among Older Adults in Canada (scoping review protocol)"
+    authors:
+      - family-names: Collares
+        given-names: Ana Cristina
+      - family-names: Peters
+        given-names: Paul A.
+      - family-names: Simpson
+        given-names: Dana
+    publisher:
+      name: Open Science Framework
+    year: 2026
+    doi: 10.17605/OSF.IO/4TNEH

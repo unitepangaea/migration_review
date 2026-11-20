@@ -1,0 +1,20 @@
+{
+  "title": "Health-related determinants of internal migration among older adults in Canada: a scoping review. Supplementary data and materials",
+  "upload_type": "dataset",
+  "description": "<p>Supplementary materials for the scoping review <em>Health-related determinants of internal migration among older adults in Canada: a scoping review</em>, submitted to <em>Populations</em> (MDPI).</p><ul><li><strong>Table S1.</strong> Data extraction workbook for the 17 included sources of evidence, with the extraction table, summary tables and figures.</li><li><strong>Table S2.</strong> Completed PRISMA-ScR checklist.</li><li><strong>Claude_Prompts.md.</strong> Prompts given to Claude (Anthropic) during data extraction and manuscript preparation.</li></ul><p>The review followed the JBI methodology for scoping reviews. The protocol is available at <a href=\"https://doi.org/10.17605/OSF.IO/4TNEH\">https://doi.org/10.17605/OSF.IO/4TNEH</a>.</p>",
+  "creators": [
+    {"name": "Collares, Ana Cristina", "affiliation": "Department of Health Sciences, Carleton University"},
+    {"name": "Simpson, Dana", "affiliation": "Department of Health Sciences, Carleton University"},
+    {"name": "McGaughey, Tomoko", "affiliation": "Department of Health Sciences, Carleton University"},
+    {"name": "Peters, Paul", "affiliation": "Department of Health Sciences and Department of Geography and Environmental Studies, Carleton University"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "keywords": ["older adults", "internal migration", "residential relocation", "healthcare access", "Canada", "scoping review"],
+  "related_identifiers": [
+    {"identifier": "10.17605/OSF.IO/4TNEH", "relation": "references", "scheme": "doi", "resource_type": "publication-other"}
+  ],
+  "notes": "This research received no external funding."
+}
